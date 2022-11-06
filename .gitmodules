@@ -1,0 +1,9 @@
+[submodule "nlw-back-end"]
+	path = nlw-back-end
+	url = https://github.com/AlyssonVitor500/nlw-back-end.git
+[submodule "nlw-front-end-web"]
+	path = nlw-front-end-web
+	url = https://github.com/AlyssonVitor500/nlw-front-end-web.git
+[submodule "nlw-mobile"]
+	path = nlw-mobile
+	url = https://github.com/AlyssonVitor500/nlw-mobile
